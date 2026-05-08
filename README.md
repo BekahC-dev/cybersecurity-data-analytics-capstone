@@ -24,7 +24,7 @@ The goal of this project is to determine whether basic models can help identify 
 - False Positive Rate
 
 ## How to Run
-Open the notebook in Google Colab and run all cells from top to bottom.
+Open the notebook in Google Colab, upload the dataset if needed, and run all cells from top to bottom.
 
 ## Tools Used
 - Python
